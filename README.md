@@ -7,5 +7,3 @@ It's goal is to minimize the effort of tracking food. Espacially when you want t
 There is no need to fill in everything manually. The scale will measure it's weight and a camera classifies the food with image recognition. All information will be sent automatically to an API that recieves the desired data like calories, proteins, fat, carbs. It should also be possible to scan barcodes when available.
 
 This project is in it's initial stage.
-
-And this is it's first feature.
